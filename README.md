@@ -39,7 +39,8 @@ Borrow out = A'Bin + A'B + BBin
 **Full Subtractor**
 ![image](https://github.com/jabezs2005/FULL_ADDER_SUBTRACTOR/assets/147473463/1f2e747a-4c6c-46d7-ad78-c8d080e83970)
 **Half Subtractor**
-![Screenshot 2024-04-04 140016](https://github.com/jabezs2005/FULL_ADDER_SUBTRACTOR/assets/147473463/b73023bb-276d-4b47-abb1-24364f4f0b0b)
+![image](https://github.com/jabezs2005/FULL_ADDER_SUBTRACTOR/assets/147473463/1744e338-2830-4c6d-8c06-0772b84d472e)
+
 
 **Procedure:**
 
